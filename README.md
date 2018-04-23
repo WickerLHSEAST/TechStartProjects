@@ -1,5 +1,8 @@
-## Welcome to GitHub Pages
-### 360 This is a picture of the center or middle of the EAST headquarters. It is a fun colorful relaxing place
+## Welcome Wicker's EAST TechStartProjects
+
+### 360 This is a picture of the center or middle of the EAST headquarters. It is a fun,colorful, relaxing place
+
+<script src='//vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='//vizor.io/embed/wicker2018/middle-of-east'></script>
 
 You can use the [editor on GitHub](https://github.com/WickerLHSEAST/TechStartProjects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
