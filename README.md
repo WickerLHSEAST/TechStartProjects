@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+### 360 This is a picture of the center or middle of the EAST headquarters. It is a fun colorful relaxing place
 
 You can use the [editor on GitHub](https://github.com/WickerLHSEAST/TechStartProjects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
